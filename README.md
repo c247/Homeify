@@ -6,3 +6,10 @@ Uses the Google Geocoding API to get coordinates from the address field
 
 ## Firebase
 Uses Firebase for authentication and Firestore as DB
+
+
+### Run
+
+```bash
+npm start
+```
